@@ -2582,6 +2582,7 @@
   "resolved" "file:../../axion"
   "version" "1.0.0"
   dependencies:
+    "@types/node" "^16.7.10"
     "@types/react" "^17.0.19"
     "@types/react-dom" "^17.0.9"
     "proxy-compare" "^2.0.2"

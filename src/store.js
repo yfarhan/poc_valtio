@@ -28,7 +28,7 @@ export const useTodos = () => {
 
 export const useRName = () => {
   const snapShot = rUseSnapshot(rStore);
-  return snapShot.name;
+  return snapShot;
 };
 
 export const subTodos = (cb) => {
